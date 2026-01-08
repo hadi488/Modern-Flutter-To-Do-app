@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510072553577",
+    "project_id": "task-remind-a63ea",
+    "storage_bucket": "task-remind-a63ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510072553577:android:9af09d6a3197229e5c62f8",
+        "android_client_info": {
+          "package_name": "com.example.task_remind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_Y3Tp8JcYYpnb6PHyP6mRto_9YdJPBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
