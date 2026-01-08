@@ -62,4 +62,3 @@ lib/
 
 ---
 
-⭐ Built with Flutter | Perfect for showcasing in internship applications
